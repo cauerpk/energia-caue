@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: ghostwhite;
+    text-align: center;
+}
+body h1{
+    color: purple   ;
+}
+body h2{
+    color: purple;
+}
+a{
+    color: brown
+};
